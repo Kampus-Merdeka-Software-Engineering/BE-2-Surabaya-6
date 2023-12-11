@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE `products` MODIFY `image1` VARCHAR(1000) NOT NULL,
+    MODIFY `image2` VARCHAR(1000) NOT NULL,
+    MODIFY `image3` VARCHAR(1000) NOT NULL;
